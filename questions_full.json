@@ -1,0 +1,1264 @@
+[
+  {
+    "question": "In Chinese painting, 'scattered perspective' allows artists to:",
+    "options": [
+      {"text": "Focus on a single point like photography", "correct": false},
+      {"text": "Depict vast landscapes across multiple viewpoints", "correct": true},
+      {"text": "Use only black ink", "correct": false},
+      {"text": "Avoid human figures", "correct": false}
+    ]
+  },
+  {
+    "question": "What was the household contract responsibility system introduced in Xiaogang Village in 1978?",
+    "options": [
+      {"text": "A system of collective farming", "correct": false},
+      {"text": "Nationalization of all farmland", "correct": false},
+      {"text": "Dividing land to households with profit and loss responsibility", "correct": true},
+      {"text": "Elimination of agricultural subsidies", "correct": false}
+    ]
+  },
+  {
+    "question": "What accounted for 15.34% of China's GDP in 2023?",
+    "options": [
+      {"text": "Digital economy", "correct": false},
+      {"text": "Tertiary industry", "correct": false},
+      {"text": "Industry", "correct": false},
+      {"text": "Agriculture", "correct": true}
+    ]
+  },
+  {
+    "question": "What does the 'Five Noblemen' theme in Chinese flower-and-bird paintings symbolize?",
+    "options": [
+      {"text": "Religious beliefs", "correct": false},
+      {"text": "Political authority", "correct": false},
+      {"text": "Wealth and prosperity", "correct": false},
+      {"text": "Moral integrity and virtues", "correct": true}
+    ]
+  },
+  {
+    "question": "Which of the following writers is known as the 'People's Artist'?",
+    "options": [
+      {"text": "Mao Dun", "correct": false},
+      {"text": "Lu Xun", "correct": false},
+      {"text": "Mo Yan", "correct": false},
+      {"text": "Lao She", "correct": true}
+    ]
+  },
+  {
+    "question": "Who authored The Treatise on Cold Pathogenic and Miscellaneous Diseases?",
+    "options": [
+      {"text": "Zhang Zhongjing", "correct": true},
+      {"text": "Li Shizhen", "correct": false},
+      {"text": "Tu Youyou", "correct": false},
+      {"text": "Sun Simiao", "correct": false}
+    ]
+  },
+  {
+    "question": "\"The Outlaws of the Marsh\" is a ___ by Shi Nai'an.",
+    "options": [
+      {"text": "love story among boys and girls of a declining noble family", "correct": false},
+      {"text": "story of political and military struggles", "correct": false},
+      {"text": "story about some famous rebels gathered in the Island", "correct": true},
+      {"text": "story about purchasing Buddhist scriptures", "correct": false}
+    ]
+  },
+  {
+    "question": "Which philosophical thoughts deeply influenced Chinese calligraphy and painting during their development?",
+    "options": [
+      {"text": "Daoist and Confucian", "correct": true},
+      {"text": "Buddhist and Legalist", "correct": false},
+      {"text": "Shinto and Hindu", "correct": false},
+      {"text": "Mohist and Yin-Yang", "correct": false}
+    ]
+  },
+  {
+    "question": "The 'Yong' character embodies eight essential calligraphy strokes. It is most associated with:",
+    "options": [
+      {"text": "Yan Zhenqing's 'Nephew Memorial Stele'", "correct": false},
+      {"text": "Ouyang Xun's 'Jiucheng Palace Stele'", "correct": false},
+      {"text": "Wang Xizhi's 'Orchid Pavilion Preface'", "correct": false},
+      {"text": "Liu Gongquan's 'Mysterious Pagoda Stele'", "correct": true}
+    ]
+  },
+  {
+    "question": "What is the pinnacle work of 'fantasy novels' in ancient Chinese literature?",
+    "options": [
+      {"text": "Strange Tales from a Lonely Studio", "correct": false},
+      {"text": "Investiture of the Gods", "correct": false},
+      {"text": "Journey to the West", "correct": true},
+      {"text": "Flowers in the Mirror", "correct": false}
+    ]
+  },
+  {
+    "question": "Which ethnic group's medicine specializes in treating bone injuries and concussions?",
+    "options": [
+      {"text": "Mongolian", "correct": true},
+      {"text": "Zhuang", "correct": false},
+      {"text": "Tibetan", "correct": false},
+      {"text": "Hui", "correct": false}
+    ]
+  },
+  {
+    "question": "What is the purpose of government regulation in China's socialist market economy?",
+    "options": [
+      {"text": "To promote unregulated business practices", "correct": false},
+      {"text": "To discourage wealth redistribution", "correct": false},
+      {"text": "To limit consumer protection laws", "correct": false},
+      {"text": "To ensure market activities serve broader social goals", "correct": true}
+    ]
+  },
+  {
+    "question": "The 'four main role categories' in Chinese opera typically refer to:",
+    "options": [
+      {"text": "Sheng (male), Dan (female), Jing (painted-face male), Chou (clown)", "correct": true},
+      {"text": "Sheng (male), Dan (female), Mo (elderly male), Chou (clown)", "correct": false},
+      {"text": "Sheng (male), Dan (female), Jing (painted-face male), Mo (elderly male)", "correct": false},
+      {"text": "Sheng (male), Mo (elderly male), Jing (painted-face male), Chou (clown)", "correct": false}
+    ]
+  },
+  {
+    "question": "Which calligraphy style is known for its simplicity and naturalness, originating from inscriptions on animal bones?",
+    "options": [
+      {"text": "Regular Script", "correct": false},
+      {"text": "Small Seal Script", "correct": false},
+      {"text": "Oracle Bone Script", "correct": true},
+      {"text": "Bronze Inscription", "correct": false}
+    ]
+  },
+  {
+    "question": "Which of the following character-to-book correspondences is incorrect?",
+    "options": [
+      {"text": "Song Jiang – Water Margin", "correct": false},
+      {"text": "Jia Baoyu – Dream of the Red Chamber", "correct": false},
+      {"text": "Sun Wukong – Journey to the West", "correct": false},
+      {"text": "Tang Monk – Romance of the Three Kingdoms", "correct": true}
+    ]
+  },
+  {
+    "question": "Which artwork by Zhang Zeduan depicts urban life during the Qingming Festival?",
+    "options": [
+      {"text": "Emperor Taizong Receiving the Tibetan Envoy", "correct": false},
+      {"text": "Thousand Miles of Rivers and Mountains", "correct": false},
+      {"text": "Along the River During the Qingming Festival", "correct": true},
+      {"text": "Fuchun Mountain Residence", "correct": false}
+    ]
+  },
+  {
+    "question": "Which of the following is a novel by Wu Cheng'en of the Ming Dynasty?",
+    "options": [
+      {"text": "Strange Tales from a Lonely Studio", "correct": false},
+      {"text": "Journey to the West", "correct": true},
+      {"text": "Water Margin", "correct": false},
+      {"text": "Dream of the Red Chamber", "correct": false}
+    ]
+  },
+  {
+    "question": "Which of the following is NOT one of China's Four Great Inventions?",
+    "options": [
+      {"text": "Papermaking", "correct": false},
+      {"text": "Porcelain", "correct": true},
+      {"text": "Movable type printing", "correct": false},
+      {"text": "Gunpowder", "correct": false}
+    ]
+  },
+  {
+    "question": "[Gong][shang][jue][zhi][yu] are five traditional Chinese music notations, [jue] is the note equals to the modern simplified note of __",
+    "options": [
+      {"text": "2", "correct": false},
+      {"text": "3", "correct": true},
+      {"text": "4", "correct": false},
+      {"text": "1", "correct": false}
+    ]
+  },
+  {
+    "question": "What was Lu Xun's first vernacular novel?",
+    "options": [
+      {"text": "A Madman's Diary", "correct": true},
+      {"text": "Medicine", "correct": false},
+      {"text": "Kong Yiji", "correct": false},
+      {"text": "The True Story of Ah Q", "correct": false}
+    ]
+  },
+  {
+    "question": "What percentage of the world's population does China feed with 7% of the world's arable land?",
+    "options": [
+      {"text": "22%", "correct": true},
+      {"text": "10%", "correct": false},
+      {"text": "30%", "correct": false},
+      {"text": "15%", "correct": false}
+    ]
+  },
+  {
+    "question": "Which script is considered the first standardized form of Chinese characters, developed during the Qin Dynasty?",
+    "options": [
+      {"text": "Regular Script", "correct": false},
+      {"text": "Clerical Script", "correct": false},
+      {"text": "Small Seal Script", "correct": true},
+      {"text": "Oracle Bone Script", "correct": false}
+    ]
+  },
+  {
+    "question": "Who is 'Ziyou' to Su Shi?",
+    "options": [
+      {"text": "Younger brother", "correct": false},
+      {"text": "Friend", "correct": false},
+      {"text": "Son", "correct": true},
+      {"text": "Father", "correct": false}
+    ]
+  },
+  {
+    "question": "Tangsancai pottery is known for its __.",
+    "options": [
+      {"text": "Blue-and-white patterns", "correct": false},
+      {"text": "Translucent quality", "correct": false},
+      {"text": "Use in tea ceremonies", "correct": false},
+      {"text": "Yellow, brown, and green glazes", "correct": true}
+    ]
+  },
+  {
+    "question": "Which of the following is a long novel by Shi Nai'an?",
+    "options": [
+      {"text": "Dream of the Red Chamber", "correct": false},
+      {"text": "Strange Tales from a Lonely Studio", "correct": false},
+      {"text": "Water Margin", "correct": true},
+      {"text": "Romance of the Three Kingdoms", "correct": false}
+    ]
+  },
+  {
+    "question": "The first Chinese spacewalk was conducted during __.",
+    "options": [
+      {"text": "Shenzhou-9", "correct": false},
+      {"text": "Shenzhou-7", "correct": true},
+      {"text": "Shenzhou-5", "correct": false},
+      {"text": "Shenzhou-11", "correct": false}
+    ]
+  },
+  {
+    "question": "Which festival involves hanging wormwood to repel diseases?",
+    "options": [
+      {"text": "Spring Festival", "correct": false},
+      {"text": "Mid-Autumn Festival", "correct": false},
+      {"text": "Double Ninth Festival", "correct": false},
+      {"text": "Dragon Boat Festival", "correct": true}
+    ]
+  },
+  {
+    "question": "Which TCM diagnostic method is unique to Zhuang medicine?",
+    "options": [
+      {"text": "Pulse reading", "correct": false},
+      {"text": "Meridian mapping", "correct": false},
+      {"text": "Tongue analysis", "correct": false},
+      {"text": "\"Eye observation\" and \"nail observation\"", "correct": true}
+    ]
+  },
+  {
+    "question": "Which of the following is a representative work of Mao Dun?",
+    "options": [
+      {"text": "Family", "correct": false},
+      {"text": "Fortress Besieged", "correct": false},
+      {"text": "Midnight", "correct": true},
+      {"text": "Camel Xiangzi", "correct": false}
+    ]
+  },
+  {
+    "question": "[Gong][shang][jue][zhi][yu] are five traditional Chinese music notations; compared to modern notation, __ are omitted.",
+    "options": [
+      {"text": "note [mi]", "correct": false},
+      {"text": "note [re]", "correct": false},
+      {"text": "note [fa]", "correct": true},
+      {"text": "note [do]", "correct": false}
+    ]
+  },
+  {
+    "question": "The phrase 'writing betrays a person' in Chinese calligraphy implies:",
+    "options": [
+      {"text": "Mistakes in writing are unforgivable", "correct": false},
+      {"text": "Handwriting reveals one's education and character", "correct": true},
+      {"text": "Only professionals can write beautifully", "correct": false},
+      {"text": "Calligraphy is a form of encryption", "correct": false}
+    ]
+  },
+  {
+    "question": "The Mao Gong Ding is a masterpiece of which script?",
+    "options": [
+      {"text": "Clerical Script", "correct": false},
+      {"text": "Regular Script", "correct": false},
+      {"text": "Bronze Inscriptions", "correct": true},
+      {"text": "Oracle Bone Script", "correct": false}
+    ]
+  },
+  {
+    "question": "The Romance of the Three Kingdoms is a ___ by Luo Guanzhong.",
+    "options": [
+      {"text": "love story among boys and girls of a declining noble family", "correct": false},
+      {"text": "story about some famous rebels gathered in the Island", "correct": false},
+      {"text": "story of political and military struggles", "correct": true},
+      {"text": "story about purchasing Buddhist scriptures", "correct": false}
+    ]
+  },
+  {
+    "question": "What was the purpose of China's Tiangong Space Station?",
+    "options": [
+      {"text": "Scientific research on microgravity and astronomy", "correct": true},
+      {"text": "Military surveillance and defense", "correct": false},
+      {"text": "Tourism and space hotels", "correct": false},
+      {"text": "Testing weapons in space", "correct": false}
+    ]
+  },
+  {
+    "question": "What were the main disadvantages of writing materials used before paper (e.g., oracle bones, bamboo slips)?",
+    "options": [
+      {"text": "Heavy and expensive", "correct": true},
+      {"text": "Difficult to decorate", "correct": false},
+      {"text": "Fragile and flammable", "correct": false},
+      {"text": "Limited color options", "correct": false}
+    ]
+  },
+  {
+    "question": "Which opera is known as the 'ancestor of all operas'?",
+    "options": [
+      {"text": "Huangmei Opera", "correct": false},
+      {"text": "Peking Opera", "correct": false},
+      {"text": "Yue Opera", "correct": false},
+      {"text": "Kunqu Opera", "correct": true}
+    ]
+  },
+  {
+    "question": "What is the main ingredient in autumn pear syrup, a TCM medicinal diet?",
+    "options": [
+      {"text": "Yam", "correct": false},
+      {"text": "Pear", "correct": true},
+      {"text": "Ginger", "correct": false},
+      {"text": "Honey", "correct": false}
+    ]
+  },
+  {
+    "question": "In 'gongbi' painting, artists primarily use:",
+    "options": [
+      {"text": "Mineral pigments for precise coloration", "correct": true},
+      {"text": "Charcoal for underdrawing", "correct": false},
+      {"text": "Washed ink for atmospheric effects", "correct": false},
+      {"text": "Freehand splatter techniques", "correct": false}
+    ]
+  },
+  {
+    "question": "In Li Bai's 'Quiet Night Thought,' what is the main emotion expressed by the poet while gazing at the moon?",
+    "options": [
+      {"text": "Homesickness", "correct": true},
+      {"text": "Sadness over parting with friends", "correct": false},
+      {"text": "Unfulfilled ambition", "correct": false},
+      {"text": "Longing for love", "correct": false}
+    ]
+  },
+  {
+    "question": "Which of the following is Lao She's representative drama?",
+    "options": [
+      {"text": "Sunrise", "correct": false},
+      {"text": "Wilderness", "correct": false},
+      {"text": "Teahouse", "correct": true},
+      {"text": "Thunderstorm", "correct": false}
+    ]
+  },
+  {
+    "question": "The Journey to the West is a ___ by Wu Cheng'en.",
+    "options": [
+      {"text": "story about purchasing Buddhist scriptures", "correct": true},
+      {"text": "story about some famous rebels gathered in the Island", "correct": false},
+      {"text": "story of political and military struggles", "correct": false},
+      {"text": "love story among boys and girls of a declining noble family", "correct": false}
+    ]
+  },
+  {
+    "question": "Which of the following correctly matches the authors of the Four Great Classical Novels with their dynasties?",
+    "options": [
+      {"text": "Romance of the Three Kingdoms – Luo Guanzhong – Late Yuan and Early Ming Dynasties", "correct": true},
+      {"text": "Journey to the West – Cao Xueqin – Ming Dynasty", "correct": false},
+      {"text": "Dream of the Red Chamber – Wu Cheng'en – Qing Dynasty", "correct": false},
+      {"text": "Water Margin – Shi Nai'an – Tang Dynasty", "correct": false}
+    ]
+  },
+  {
+    "question": "What emotion is Wang Wei's 'Red Beans' often used to express?",
+    "options": [
+      {"text": "The aspiration to retreat to pastoral life", "correct": false},
+      {"text": "Homesickness", "correct": false},
+      {"text": "Longing in friendship or love", "correct": true},
+      {"text": "The pride of frontier soldiers", "correct": false}
+    ]
+  },
+  {
+    "question": "Which literary genre reached its peak in the Tang Dynasty?",
+    "options": [
+      {"text": "Ci (lyric poetry)", "correct": false},
+      {"text": "Novels", "correct": false},
+      {"text": "Poetry", "correct": true},
+      {"text": "Fu (rhapsody)", "correct": false}
+    ]
+  },
+  {
+    "question": "How many types of Chinese medicinal materials are currently documented?",
+    "options": [
+      {"text": "2,000", "correct": false},
+      {"text": "8,000", "correct": false},
+      {"text": "5,000", "correct": true},
+      {"text": "10,000", "correct": false}
+    ]
+  },
+  {
+    "question": "In 'Red Beans,' what does 'this thing is most full of lovesickness' directly refer to?",
+    "options": [
+      {"text": "The bright moon", "correct": false},
+      {"text": "Red beans", "correct": true},
+      {"text": "Willow branches", "correct": false},
+      {"text": "Plum blossoms", "correct": false}
+    ]
+  },
+  {
+    "question": "By the 13th century, what made Chinese agriculture the most refined and productive in the world?",
+    "options": [
+      {"text": "Isolationist policies", "correct": false},
+      {"text": "European trade influence", "correct": false},
+      {"text": "Invention and application of agricultural technology", "correct": true},
+      {"text": "Decline in innovation", "correct": false}
+    ]
+  },
+  {
+    "question": "Which Song Dynasty painter systematically theorized 'shanshui' landscapes in Linquan Gaozhi?",
+    "options": [
+      {"text": "Fan Kuan", "correct": false},
+      {"text": "Guo Xi", "correct": true},
+      {"text": "Mi Fu", "correct": false},
+      {"text": "Zhang Zeduan", "correct": false}
+    ]
+  },
+  {
+    "question": "The 'Chou' role in Peking Opera is best known for being:",
+    "options": [
+      {"text": "The noble and elegant character", "correct": false},
+      {"text": "The clown or comic character with a white patch on the face", "correct": true},
+      {"text": "The tragic female character", "correct": false},
+      {"text": "The heroic young warrior", "correct": false}
+    ]
+  },
+  {
+    "question": "What is the primary purpose of the 'Four Treasures of the Study'?",
+    "options": [
+      {"text": "Calligraphy and painting creation", "correct": true},
+      {"text": "Religious rituals", "correct": false},
+      {"text": "Agricultural tools", "correct": false},
+      {"text": "Military strategy", "correct": false}
+    ]
+  },  {
+    "question": "In Peking Opera, the color red on a facial mask generally symbolizes which of the following traits?",
+    "options": [
+      {"text": "Deceitfulness and cunning", "correct": false},
+      {"text": "Ruthlessness and evil", "correct": false},
+      {"text": "Loyalty, bravery, and uprightness", "correct": true},
+      {"text": "Sadness and tragedy", "correct": false}
+    ]
+  },
+  {
+    "question": "Which season in TCM is associated with the principle of 'germination'?",
+    "options": [
+      {"text": "Spring", "correct": true},
+      {"text": "Winter", "correct": false},
+      {"text": "Summer", "correct": false},
+      {"text": "Autumn", "correct": false}
+    ]
+  },
+  {
+    "question": "UNESCO inscribed Chinese calligraphy on its Intangible Cultural Heritage list in:",
+    "options": [
+      {"text": "2013", "correct": false},
+      {"text": "2017", "correct": false},
+      {"text": "2005", "correct": false},
+      {"text": "2009", "correct": true}
+    ]
+  },
+  {
+    "question": "Which of the following characters was created by Lu Xun?",
+    "options": [
+      {"text": "Wu Sunfu", "correct": false},
+      {"text": "Kong Yiji", "correct": true},
+      {"text": "Xiangzi", "correct": false},
+      {"text": "Juexin", "correct": false}
+    ]
+  },
+  {
+    "question": "Which of the following books is a work by Mo Yan?",
+    "options": [
+      {"text": "Red Sorghum Family", "correct": true},
+      {"text": "Crying in the Drizzle", "correct": false},
+      {"text": "To Live", "correct": false},
+      {"text": "Brothers", "correct": false}
+    ]
+  },
+  {
+    "question": "Those 'ballads or folk songs' are usually accompanied by __ in the Book of Songs.",
+    "options": [
+      {"text": "local music", "correct": false},
+      {"text": "traditional music", "correct": false},
+      {"text": "orthodox music", "correct": true},
+      {"text": "slow tempo dance music", "correct": false}
+    ]
+  },
+  {
+    "question": "What emotion does the line 'There should be no hatred, yet why does it always shine round at times of parting' express?",
+    "options": [
+      {"text": "Sorrow over the passage of time", "correct": false},
+      {"text": "Resentment towards the moon", "correct": false},
+      {"text": "Dissatisfaction with fate", "correct": false},
+      {"text": "Regret and longing for parting from family", "correct": true}
+    ]
+  },
+  {
+    "question": "Which of these is NOT mentioned as a limitation of AI?",
+    "options": [
+      {"text": "Inability to feel empathy", "correct": false},
+      {"text": "Lack of creativity", "correct": true},
+      {"text": "Poor judgment in ethical dilemmas", "correct": false},
+      {"text": "High energy consumption", "correct": false}
+    ]
+  },
+  {
+    "question": "Who is the author of the Tang poem 'Red Beans'?",
+    "options": [
+      {"text": "Han Yu", "correct": false},
+      {"text": "Li Bai", "correct": false},
+      {"text": "Wang Wei", "correct": true},
+      {"text": "Du Fu", "correct": false}
+    ]
+  },
+  {
+    "question": "Chinese literature before 1840 is called:",
+    "options": [
+      {"text": "Ancient literature", "correct": true},
+      {"text": "Modern literature", "correct": false},
+      {"text": "Recent literature", "correct": false},
+      {"text": "Contemporary literature", "correct": false}
+    ]
+  },
+  {
+    "question": "Which TCM text is known as the 'Hippocratic Oath of the East'?",
+    "options": [
+      {"text": "Prescriptions Worth a Thousand Pieces of Gold", "correct": false},
+      {"text": "Treatise on Cold Pathogenic Diseases", "correct": false},
+      {"text": "Inner Canon of the Yellow Emperor", "correct": true},
+      {"text": "The Compendium of Materia Medica", "correct": false}
+    ]
+  },
+  {
+    "question": "[Gong][shang][jue][zhi][yu] are five traditional Chinese music notations, [gong] is the note equals to the modern simplified note of __",
+    "options": [
+      {"text": "4", "correct": false},
+      {"text": "2", "correct": false},
+      {"text": "3", "correct": false},
+      {"text": "1", "correct": true}
+    ]
+  },
+  {
+    "question": "What was the economic impact of the Dayuejin period from 1958 to 1965?",
+    "options": [
+      {"text": "Rapid economic growth", "correct": false},
+      {"text": "Increased foreign investment", "correct": false},
+      {"text": "Economic growth undermined due to unrealistic targets", "correct": true},
+      {"text": "Stable economic development", "correct": false}
+    ]
+  },
+  {
+    "question": "Which strategy aims to reduce regional disparities in China?",
+    "options": [
+      {"text": "Internet Plus", "correct": false},
+      {"text": "Western Development Strategy", "correct": true},
+      {"text": "Made in China 2025", "correct": false},
+      {"text": "Cultural Revolution", "correct": false}
+    ]
+  },
+  {
+    "question": "What is the primary purpose of moxibustion?",
+    "options": [
+      {"text": "Cooling the body", "correct": false},
+      {"text": "Warming and unblocking meridians", "correct": true},
+      {"text": "Reducing inflammation", "correct": false},
+      {"text": "Enhancing digestion", "correct": false}
+    ]
+  },
+  {
+    "question": "The term 'Danging' in Chinese painting refers to:",
+    "options": [
+      {"text": "Inkstone craftsmanship", "correct": false},
+      {"text": "The colors vermilion and cyan-green", "correct": true},
+      {"text": "A famous painter", "correct": false},
+      {"text": "A type of brush", "correct": false}
+    ]
+  },
+  {
+    "question": "Which painting style uses minimal colors and emphasizes simplicity?",
+    "options": [
+      {"text": "Freehand Brushwork", "correct": true},
+      {"text": "Blue-and-Green Landscape", "correct": false},
+      {"text": "Fine Brushwork", "correct": false},
+      {"text": "Mural Painting", "correct": false}
+    ]
+  },
+  {
+    "question": "Which of the following books is a work by Yu Hua?",
+    "options": [
+      {"text": "To Live", "correct": true},
+      {"text": "Dream of the Red Chamber", "correct": false},
+      {"text": "Transparent Carrot", "correct": false},
+      {"text": "Red Sorghum Family", "correct": false}
+    ]
+  },
+  {
+    "question": "\"If one hasn't studied The Book of Songs, he could not talk properly.\" This was said by:",
+    "options": [
+      {"text": "Kongzi", "correct": true},
+      {"text": "Laozi", "correct": false},
+      {"text": "Zhuangzi", "correct": false},
+      {"text": "Mengzi", "correct": false}
+    ]
+  },
+  {
+    "question": "The Tang Dynasty sees the peak of literary achievement in:",
+    "options": [
+      {"text": "Novels", "correct": false},
+      {"text": "Play", "correct": false},
+      {"text": "Poetry", "correct": true},
+      {"text": "Prose", "correct": false}
+    ]
+  },
+  {
+    "question": "Which TCM method involves pressing the Renzhong acupoint for emergency revival?",
+    "options": [
+      {"text": "Acupuncture", "correct": true},
+      {"text": "Massage", "correct": false},
+      {"text": "Herbal tea", "correct": false},
+      {"text": "Cupping", "correct": false}
+    ]
+  },
+  {
+    "question": "The Book of Songs is a collection of more than __ poems.",
+    "options": [
+      {"text": "800", "correct": false},
+      {"text": "300", "correct": true},
+      {"text": "500", "correct": false},
+      {"text": "1000", "correct": false}
+    ]
+  },
+  {
+    "question": "In Peking Opera, what does the 'Dan' role primarily depict?",
+    "options": [
+      {"text": "Clowns and comic characters", "correct": false},
+      {"text": "Female characters or women roles", "correct": true},
+      {"text": "Male warriors and officials", "correct": false},
+      {"text": "Villains with painted faces", "correct": false}
+    ]
+  },
+  {
+    "question": "What is the primary focus of winter healthcare in TCM?",
+    "options": [
+      {"text": "Sweating exercises", "correct": false},
+      {"text": "Emotional expression", "correct": false},
+      {"text": "Energy conservation", "correct": true},
+      {"text": "Detoxification", "correct": false}
+    ]
+  },
+  {
+    "question": "What was a key reason for China's economic stagnation after the 14th century?",
+    "options": [
+      {"text": "Increased maritime trade", "correct": false},
+      {"text": "Rapid technological advancements in Europe", "correct": false},
+      {"text": "Ming Dynasty's isolationist policies", "correct": true},
+      {"text": "Adoption of Confucian values", "correct": false}
+    ]
+  },
+  {
+    "question": "The Taishan Stone Carving was created under the order of:",
+    "options": [
+      {"text": "Emperor Taizong", "correct": false},
+      {"text": "Emperor Huizong", "correct": false},
+      {"text": "Emperor Qin Shihuang", "correct": true},
+      {"text": "Emperor Kangxi", "correct": false}
+    ]
+  },
+  {
+    "question": "Who are 'Liu, Guan, and Zhang' in Romance of the Three Kingdoms?",
+    "options": [
+      {"text": "Liu Bei, Lord Guan, Zhang Song", "correct": false},
+      {"text": "Liu Bang, Guan Ping, Zhang Fei", "correct": false},
+      {"text": "Liu Xiang, Guan Xing, Zhang Liang", "correct": false},
+      {"text": "Liu Bei, Guan Yu, Zhang Fei", "correct": true}
+    ]
+  },
+  {
+    "question": "As an ancient opera genre, where is Qinqiang Opera mainly popular?",
+    "options": [
+      {"text": "Shaanxi", "correct": true},
+      {"text": "Heilongjiang", "correct": false},
+      {"text": "Fujian", "correct": false},
+      {"text": "Guangdong", "correct": false}
+    ]
+  },
+  {
+    "question": "Who is the author of Ode to the Wanderer?",
+    "options": [
+      {"text": "Li Bai", "correct": false},
+      {"text": "Wang Wei", "correct": false},
+      {"text": "Meng Jiao", "correct": true},
+      {"text": "Du Fu", "correct": false}
+    ]
+  },
+  {
+    "question": "Who is the author of Li Sao?",
+    "options": [
+      {"text": "Confucius", "correct": false},
+      {"text": "Chang’e", "correct": false},
+      {"text": "Qu Yuan", "correct": true},
+      {"text": "Fisherman", "correct": false}
+    ]
+  },
+  {
+    "question": "Which dynasty did the ci poet Li Qingzhao belong to?",
+    "options": [
+      {"text": "Ming", "correct": false},
+      {"text": "Tang", "correct": false},
+      {"text": "Qing", "correct": false},
+      {"text": "Song", "correct": true}
+    ]
+  },
+  {
+    "question": "Which of the following is a natural condition that challenges China's economic development?",
+    "options": [
+      {"text": "Lack of natural resources like coal and gas", "correct": false},
+      {"text": "Abundance of oil reserves", "correct": false},
+      {"text": "Short coastline", "correct": false},
+      {"text": "Vast territory with diverse climate zones", "correct": true}
+    ]
+  },
+  {
+    "question": "Which Chinese astronaut took China’s first manned space mission (Shenzhou-5)?",
+    "options": [
+      {"text": "Yang Liwei", "correct": true},
+      {"text": "Jing Haipeng", "correct": false},
+      {"text": "Liu Yang", "correct": false},
+      {"text": "Zhai Zhigang", "correct": false}
+    ]
+  },
+  {
+    "question": "Which two medical practices are integrated in China’s healthcare system?",
+    "options": [
+      {"text": "TCM and Western Medicine", "correct": true},
+      {"text": "Chiropractic and Herbalism", "correct": false},
+      {"text": "Naturopathy and Acupuncture", "correct": false},
+      {"text": "Ayurveda and Homeopathy", "correct": false}
+    ]
+  },
+  {
+    "question": "What was the famous literary genre in the Pre-Qin period?",
+    "options": [
+      {"text": "Dramas", "correct": false},
+      {"text": "Novels", "correct": false},
+      {"text": "Prose", "correct": true},
+      {"text": "Poems", "correct": false}
+    ]
+  },
+  {
+    "question": "The compass was originally developed from:",
+    "options": [
+      {"text": "A military weapon", "correct": false},
+      {"text": "A navigation tool for fishermen", "correct": false},
+      {"text": "An agricultural device", "correct": false},
+      {"text": "A divination instrument called “Sinan”", "correct": true}
+    ]
+  },
+  {
+    "question": "Dream of the Red Chamber is a __ by Cao Xueqin and Gao.",
+    "options": [
+      {"text": "Story of political and military struggles", "correct": false},
+      {"text": "Story about purchasing Buddhist scriptures", "correct": false},
+      {"text": "Story about some famous rebels gathered in the island", "correct": false},
+      {"text": "Love story among boys and girls of a declining noble family", "correct": true}
+    ]
+  },
+  {
+    "question": "What is the primary role of the market in China's socialist market economic system?",
+    "options": [
+      {"text": "To play a decisive role in allocating resources", "correct": true},
+      {"text": "To prioritize profit motives over social welfare", "correct": false},
+      {"text": "To solely determine prices without government intervention", "correct": false},
+      {"text": "To eliminate public ownership of industries", "correct": false}
+    ]
+  },
+  {
+    "question": "What emotion does “Stitching tightly before departure…” depict about the mother?",
+    "options": [
+      {"text": "Anxiety about child abroad", "correct": true},
+      {"text": "Hope the child brings clothes", "correct": false},
+      {"text": "Concern for travel safety", "correct": false},
+      {"text": "Worry about sewing skills", "correct": false}
+    ]
+  },
+  {
+    "question": "What is the average life expectancy in China as of 2017?",
+    "options": [
+      {"text": "68.9 years", "correct": false},
+      {"text": "80.2 years", "correct": false},
+      {"text": "76.7 years", "correct": true},
+      {"text": "70.5 years", "correct": false}
+    ]
+  },
+  {
+    "question": "The Silk Road was primarily used to trade:",
+    "options": [
+      {"text": "Silk and porcelain", "correct": true},
+      {"text": "Gunpowder and weapons", "correct": false},
+      {"text": "Paper and books", "correct": false},
+      {"text": "Tea and spices", "correct": false}
+    ]
+  },
+  {
+    "question": "China's Tiangong Space Station was completed in:",
+    "options": [
+      {"text": "2022", "correct": true},
+      {"text": "2019", "correct": false},
+      {"text": "2020", "correct": false},
+      {"text": "2021", "correct": false}
+    ]
+  },
+  {
+    "question": "What does the “Five Elements” theory associate with “fire”?",
+    "options": [
+      {"text": "Nourishment", "correct": false},
+      {"text": "Stability", "correct": false},
+      {"text": "Moisture", "correct": false},
+      {"text": "Heat and ascension", "correct": true}
+    ]
+  },
+  {
+    "question": "In Seeing Meng Haoran Off to Guangling, where is Li Bai seeing his friend off to?",
+    "options": [
+      {"text": "Jinling (Nanjing)", "correct": false},
+      {"text": "Chang’an (Xi’an)", "correct": false},
+      {"text": "Luoyang", "correct": false},
+      {"text": "Guangling (Yangzhou)", "correct": true}
+    ]
+  },
+  {
+    "question": "The rhyme of this poem is:",
+    "options": [
+      {"text": "[u]", "correct": true},
+      {"text": "[o]", "correct": false},
+      {"text": "[g]", "correct": false},
+      {"text": "[e]", "correct": false}
+    ]
+  },
+  {
+    "question": "The famous calligrapher Wang Xizhi is best known for:",
+    "options": [
+      {"text": "Self-narrative Scroll", "correct": false},
+      {"text": "Liquan Inscription of Jiucheng Palace", "correct": false},
+      {"text": "Preface to the Poems from the Orchid Pavilion", "correct": true},
+      {"text": "Taishan Stone Carving", "correct": false}
+    ]
+  },
+  {
+    "question": "Which historical period marks the unification of China under Emperor Qin Shihuang?",
+    "options": [
+      {"text": "Song Dynasty (960–1279)", "correct": false},
+      {"text": "Chinese Empire (221 BC–1911)", "correct": true},
+      {"text": "Republic of China (1911–1949)", "correct": false},
+      {"text": "People's Republic of China (1949–present)", "correct": false},
+      {"text": "Republic of China (1911–1949)", "correct": false}
+    ]
+  },
+  {
+    "question": "What does the “Five Elements” theory categorize as “wood”?",
+    "options": [
+      {"text": "Heat and brightness", "correct": false},
+      {"text": "Growth and flexibility", "correct": true},
+      {"text": "Cold and stillness", "correct": false},
+      {"text": "Hardness and restraint", "correct": false}
+    ]
+  },
+  {
+    "question": "Mulan originally is a Chinese legendary protagonist in:",
+    "options": [
+      {"text": "Disney Cartoon", "correct": false},
+      {"text": "Italian Drama", "correct": false},
+      {"text": "Chinese Opera", "correct": true},
+      {"text": "Hollywood Movie", "correct": false}
+    ]
+  },
+  {
+    "question": "What is the main advantage of China’s hybrid rice developed by Yuan Longping?",
+    "options": [
+      {"text": "It requires less water than traditional rice", "correct": false},
+      {"text": "It has a yield 20% higher than conventional rice", "correct": true},
+      {"text": "It doesn’t need any fertilizers", "correct": false},
+      {"text": "It can grow in desert environments", "correct": false}
+    ]
+  },
+{
+  "question": "The Zhuo Wang Tu by Li Keran revolutionized ink painting by:",
+  "options": [
+    { "text": "Introducing oil pigments to Xuan paper", "correct": false },
+    { "text": "Adopting Ukiyo-e compositional formats", "correct": false },
+    { "text": "Combining Western perspective with Chinese brushwork", "correct": false },
+    {"text": "Using layered ink washes for luminous effects", "correct": true }
+  ]
+},
+{
+    "question": "What is the first collection of ancient Chinese poems?",
+    "options": [
+      {"text": "Nineteen Ancient Poems", "correct": false},
+      {"text": "Songs of Chu", "correct": false},
+      {"text": "Collection of Yuefu Poems", "correct": false},
+      {"text": "The Book of Songs", "correct": true}
+    ]
+  },
+  {
+    "question": "What literary genre does Li Bai’s masterpiece Quiet Night Thoughts belong to?",
+    "options": [
+      {"text": "Poetry", "correct": true},
+      {"text": "Prose", "correct": false},
+      {"text": "Drama", "correct": false},
+      {"text": "Romance", "correct": false}
+    ]
+  },
+  {
+    "question": "Which of the following is a novel by Ba Jin?",
+    "options": [
+      {"text": "The Shop of the Lin Family", "correct": false},
+      {"text": "Midnight", "correct": false},
+      {"text": "Family", "correct": true},
+      {"text": "Rickshaw Boy", "correct": false}
+    ]
+  },
+  {
+    "question": "\"Leaving white space\" (liubai) in painting symbolizes:",
+    "options": [
+      {"text": "Unfinished composition", "correct": false},
+      {"text": "Economic frugality in material use", "correct": false},
+      {"text": "Clouds, water, or void as cosmic elements", "correct": true},
+      {"text": "Areas for poetic inscriptions", "correct": false}
+    ]
+  },
+  {
+    "question": "Which of the following is not one of the \"Four Great Male Dan Roles\" in Peking Opera",
+    "options": [
+      {"text": "Mei Lanfang", "correct": false},
+      {"text": "Cheng Yanqiu", "correct": false},
+      {"text": "Tan Dun", "correct": true},
+      {"text": "Xun Huasheng", "correct": false}
+    ]
+  },
+  {
+    "question": "Which traditional Chinese pharmacy was founded in 1723 and served emperors?",
+    "options": [
+      {"text": "Shanghai Medicinal Hall", "correct": false},
+      {"text": "Tongren Tang", "correct": true},
+      {"text": "Hu Qingyu Tang", "correct": false},
+      {"text": "Beijing Herbal Cente", "correct": false}
+    ]
+  },
+  {
+    "question": "In the line \"May we live long and share the beauty of the moon together, though miles apart\", what does “Chan Juan” refer to?",
+    "options": [
+      {"text": "Flower", "correct": false},
+      {"text": "Bright moon", "correct": true},
+      {"text": "Reunion", "correct": false},
+      {"text": "Beautiful woman", "correct": false}
+    ]
+  },
+  {
+    "question": "What was the average GDP growth rate in China from 1978 to 2001?",
+    "options": [
+      {"text": "7.5%", "correct": false},
+      {"text": "12.1%", "correct": false},
+      {"text": "9.3%", "correct": true},
+      {"text": "5.3%", "correct": false}
+    ]
+  },
+  {
+    "question": "What was one of the four important turning points in China’s economic history?",
+    "options": [
+      {"text": "The Industrial Revolution", "correct": false},
+      {"text": "The Great Depression", "correct": false},
+      {"text": "The Renaissance period", "correct": false},
+      {"text": "The Opium War in the 19th century", "correct": true}
+    ]
+  },
+  {
+    "question": "Which legendary hero is commonly depicted with a red facial mask, symbolizing loyalty and bravery?",
+    "options": [
+      {"text": "Cao Cao", "correct": false},
+      {"text": "Yue Fei", "correct": false},
+      {"text": "Zhang Fei", "correct": false},
+      {"text": "Guan Yu (Guan Gong)", "correct": true}
+    ]
+  },
+  {
+    "question": "Where did Yu Opera (Henan Opera) originate?",
+    "options": [
+      {"text": "Henan", "correct": true},
+      {"text": "Anhui", "correct": false},
+      {"text": "Jiangsu", "correct": false},
+      {"text": "Shandong", "correct": false}
+    ]
+  },
+  {
+    "question": "In Chinese painting, the technique of xieyi emphasizes:",
+    "options": [
+      {"text": "Photorealistic details", "correct": false},
+      {"text": "Expressive abstraction through minimal strokes", "correct": true},
+      {"text": "Gold-leaf embellishments", "correct": false},
+      {"text": "Complex layered colors", "correct": false}
+    ]
+  },
+  {
+    "question": "Bubble tea originated in:",
+    "options": [
+      {"text": "Taiwan", "correct": true},
+      {"text": "Hong Kong", "correct": false},
+      {"text": "Japan", "correct": false},
+      {"text": "Mainland China", "correct": false}
+    ]
+  },
+  {
+    "question": "Those “ballads or folk songs” are included in the Chapter of __ in the Book of Songs.",
+    "options": [
+      {"text": "Song", "correct": false},
+      {"text": "Ya", "correct": false},
+      {"text": "Feng", "correct": true},
+      {"text": "Preface", "correct": false}
+    ]
+  },
+  {
+    "question": "The CRH 380A train can reach speeds up to:",
+    "options": [
+      {"text": "380 km/h", "correct": true},
+      {"text": "350 km/h", "correct": false},
+      {"text": "300 km/h", "correct": false},
+      {"text": "250 km/h", "correct": false}
+    ]
+  },
+  {
+    "question": "Which concept emphasizes harmony between humans and nature in TCM?",
+    "options": [
+      {"text": "Five Elements", "correct": false},
+      {"text": "Yin & Yang", "correct": false},
+      {"text": "Meridian Theory", "correct": false},
+      {"text": "Oneness of Heaven and Man", "correct": true}
+    ]
+  },
+  {
+    "question": "What does the “scattered perspective” in Chinese painting allow?",
+    "options": [
+      {"text": "Single vanishing point", "correct": false},
+      {"text": "Realistic shadows", "correct": false},
+      {"text": "Multiple viewpoints in one composition", "correct": true},
+      {"text": "Abstract color use", "correct": false}
+    ]
+  },
+  {
+    "question": "Which of the following does NOT belong to the \"Four Great Classical Novels\"?",
+    "options": [
+      {"text": "Romance of the Three Kingdoms", "correct": false},
+      {"text": "Water Margin", "correct": false},
+      {"text": "The Plum in the Golden Vase", "correct": true},
+      {"text": "Journey to the West", "correct": false}
+    ]
+  },
+  {
+    "question": "A character with black facial mask, known for integrity and honesty, is likely to be:",
+    "options": [
+      {"text": "Zhou Yu", "correct": false},
+      {"text": "Liu Bei", "correct": false},
+      {"text": "Zhang Fei", "correct": true},
+      {"text": "Duan Ku", "correct": false}
+    ]
+  },
+  {
+    "question": "Which of the following is a masterpiece of the Tang Dynasty poet Meng Haoran?",
+    "options": [
+      { "text": "Prelude to Water Melody", "correct": false },
+      { "text": "Farewell to Wang Lun", "correct": false },
+      { "text": "A Traveler’s Song", "correct": true },
+      { "text": "Slow, Slow Tune", "correct": false }
+    ]
+  },
+  {
+    "question": "Which of the following are the traditional symbol of remembrance of lovers in China?",
+    "options": [
+      { "text": "Jade", "correct": false },
+      { "text": "Jasmine", "correct": false },
+      { "text": "Red bean", "correct": true },
+      { "text": "Rose", "correct": false }
+    ]
+  },
+  {
+    "question": "In TCM, which flavor is associated with a nourishing effect?",
+    "options": [
+      { "text": "Bitter", "correct": false },
+      { "text": "Sweet", "correct": true },
+      { "text": "Sour", "correct": false },
+      { "text": "Salty", "correct": false }
+    ]
+  },
+  {
+    "question": "Which crop was first cultivated in China about 7,000 years ago?",
+    "options": [
+      { "text": "Soybeans", "correct": false },
+      { "text": "Tea", "correct": false },
+      { "text": "Wheat", "correct": false },
+      { "text": "Rice", "correct": true }
+    ]
+  },
+  {
+    "question": "Li Bai is a ___ poet in Tang Dynasty.",
+    "options": [
+      { "text": "Optimistic", "correct": false },
+      { "text": "Realistic", "correct": false },
+      { "text": "Romantic", "correct": true },
+      { "text": "Critical", "correct": false }
+    ]
+  },
+  {
+    "question": "What does the \"invisible hand\" refer to in China’s socialist market economy?",
+    "options": [
+      { "text": "Market mechanism for resource allocation", "correct": true },
+      { "text": "Economic planning", "correct": false },
+      { "text": "Public ownership of industries", "correct": false },
+      { "text": "Government regulation", "correct": false }
+    ]
+  },
+  {
+    "question": "Which script is characterized by \"silkworm head and goose tail\" strokes?",
+    "options": [
+      { "text": "Clerical Script", "correct": true },
+      { "text": "Cursive Script", "correct": false },
+      { "text": "Running Script", "correct": false },
+      { "text": "Regular Script", "correct": false }
+    ]
+  },
+  {
+    "question": "Which of the following is not included in Ba Jin’s Torrent Trilogy?",
+    "options": [
+      { "text": "Spring", "correct": false },
+      { "text": "Autumn", "correct": false},
+      { "text": "Family", "correct": false },
+      { "text": "Winter", "correct": true }
+    ]
+  },
+  {
+    "question": "Which dynasty’s doctor wrote Prescriptions Worth a Thousand Pieces of Gold?",
+    "options": [
+      { "text": "Tang Dynasty", "correct": true },
+      { "text": "Ming Dynasty", "correct": false },
+      { "text": "Han Dynasty", "correct": false },
+      { "text": "Song Dynasty", "correct": false }
+    ]
+  },
+  {
+    "question": "Which of the following is part of China’s complete industrial system?",
+    "options": [
+      { "text": "Dependence on foreign supply chains", "correct": false },
+      { "text": "National defense technology industry", "correct": true },
+      { "text": "No consumer goods industry", "correct": false },
+      { "text": "Limited raw material production", "correct": false }
+    ]
+  },
+
+  {
+    "question": "During which dynasty was movable type printing invented?",
+    "options": [
+      { "text": "Tang Dynasty", "correct": false },
+      { "text": "Song Dynasty", "correct": true },
+      { "text": "Yuan Dynasty", "correct": false },
+      { "text": "Ming Dynasty", "correct": false }
+    ]
+  },
+  {
+    "question": "Those “court hymns or odes” are included in the Chapter of __ in the Book of Songs.",
+    "options": [
+      { "text": "Preface", "correct": false },
+      { "text": "Song", "correct": false },
+      { "text": "Feng", "correct": false },
+      { "text": "Ya", "correct": true }
+    ]
+  },
+  {
+    "question": "Which of the following correctly matches the author with their work?",
+    "options": [
+      { "text": "Ba Jin – Family", "correct": true },
+      { "text": "Ba Jin – Midnight", "correct": false },
+      { "text": "Mao Dun – Four Generations Under One Roof", "correct": false },
+      { "text": "Mao Dun – The Garden of Rest", "correct": false }
+    ]
+  },
+  {
+    "question": "During which dynasty did Chinese industry reach its peak, accounting for 25%–50% of the world's GDP?",
+    "options": [
+      { "text": "Song Dynasty", "correct": true },
+      { "text": "Tang Dynasty", "correct": false },
+      { "text": "Qing Dynasty", "correct": false },
+      { "text": "Han Dynasty", "correct": false }
+    ]
+  },
+  {
+    "question": "What is a key feature of the “New Normal” of China’s economy?",
+    "options": [
+      { "text": "Double-digit economic growth rate", "correct": false },
+      { "text": "No government intervention", "correct": false },
+      { "text": "Complete economic stagnation", "correct": false },
+      { "text": "Relatively stable growth at around 5%", "correct": true }
+    ]
+  },
+  {
+    "question": "Gunpowder was accidentally discovered by Chinese alchemists while trying to:",
+    "options": [
+      { "text": "Produce medicinal drugs", "correct": false },
+      { "text": "Make an elixir of immortality", "correct": true },
+      { "text": "Develop military weapons", "correct": false },
+      { "text": "Create fireworks", "correct": false }
+    ]
+  },
+  {
+    "question": "Those “sacrificial songs” are included in the Chapter of __ in the Book of Songs.",
+    "options": [
+      { "text": "Ya", "correct": false },
+      { "text": "Song", "correct": true },
+      { "text": "Feng", "correct": false },
+      { "text": "Preface", "correct": false }
+    ]
+  },
+  {
+    "question": "The saying “When Suzhou and Huzhou rice is ripe, the world has enough food” reflects:",
+    "options": [
+      { "text": "Both A and B", "correct": true },
+      { "text": "China’s early agricultural exports", "correct": false },
+      { "text": "The importance of rice in Chinese culture", "correct": false },
+      { "text": "The fertility of the Yangtze River Delta", "correct": false }
+    ]
+  },
+  {
+    "question": "Which of the following authors was NOT from the Ming Dynasty?",
+    "options": [
+      { "text": "Wu Chengen", "correct": false },
+      { "text": "Luo Guanzhong", "correct": false },
+      { "text": "Shi Nai’an", "correct": false },
+      { "text": "Cao Xueqin", "correct": true }
+    ]
+  },
+  {
+    "question": "China is the first country to have written records about __.",
+    "options": [
+      { "text": "Rice varieties", "correct": true },
+      { "text": "Irrigation systems", "correct": false },
+      { "text": "Silk production", "correct": false },
+      { "text": "Tea varieties", "correct": false }
+    ]
+  }
+
+]
