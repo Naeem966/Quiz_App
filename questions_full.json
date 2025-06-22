@@ -1259,6 +1259,367 @@
       { "text": "Silk production", "correct": false },
       { "text": "Tea varieties", "correct": false }
     ]
+  },
+
+  {
+    "question": "Which of the following is NOT one of the Four Major Roles in Peking Opera?",
+    "options": [
+      { "text": "Jing – Painted-face male role", "correct": false },
+      { "text": "Wei – Royal role", "correct": true },
+      { "text": "Sheng – Male role", "correct": false },
+      { "text": "Dan – Female role", "correct": false }
+    ]
+  },
+  {
+    "question": "Hybrid rice yields approximately how much more than conventional rice?",
+    "options": [
+      { "text": "10%", "correct": false },
+      { "text": "20%", "correct": true },
+      { "text": "50%", "correct": false },
+      { "text": "5%", "correct": false }
+    ]
+  },
+  {
+    "question": "Which group of characters all come from Romance of the Three Kingdoms?",
+    "options": [
+      { "text": "Tang Monk, White Dragon Horse", "correct": false },
+      { "text": "Zhuge Liang, Guan Yu", "correct": true },
+      { "text": "Jia Baoyu, Shi Xiangyun", "correct": false },
+      { "text": "Song Jiang, Lu Zhishen", "correct": false }
+    ]
+  },
+  {
+    "question": "Who is known as the “Father of Hybrid Rice”?",
+    "options": [
+      { "text": "Yuan Longping", "correct": true },
+      { "text": "Bi Sheng", "correct": false },
+      { "text": "Zheng He", "correct": false },
+      { "text": "Cai Lun", "correct": false }
+    ]
+  },
+  {
+    "question": "“Flying white” (feibai) in calligraphy refers to:",
+    "options": [
+      { "text": "Dry-brush strokes revealing white paper texture", "correct": true },
+      { "text": "A rapid cursive script style", "correct": false },
+      { "text": "Mist effects in landscape painting", "correct": false },
+      { "text": "Silk used for mounting artworks", "correct": false }
+    ]
+  },
+  {
+    "question": "What is the focus of the “Made in China 2025” initiative?",
+    "options": [
+      { "text": "Reducing industrial output", "correct": false },
+      { "text": "Focusing solely on agriculture", "correct": false },
+      { "text": "Eliminating digital industries", "correct": false },
+      { "text": "Enhancing manufacturing innovation capability", "correct": true }
+    ]
+  },
+  {
+    "question": "What characterized the economy of the Republic of China (1911–1949)?",
+    "options": [
+      { "text": "Isolation from global trade", "correct": false },
+      { "text": "Complete economic stability", "correct": false },
+      { "text": "Progress in modern industries disrupted by wars", "correct": true },
+      { "text": "Rapid economic growth", "correct": false }
+    ]
+  },
+  {
+    "question": "The metaphor of Butterfly in Chinese culture is:",
+    "options": [
+      { "text": "Anxiety", "correct": false },
+      { "text": "Freedom", "correct": false },
+      { "text": "Happy life", "correct": false },
+      { "text": "Permanent love", "correct": true }
+    ]
+  },
+  {
+    "question": "In To Wang Lun, what does the poet use “the depth of Peach Blossom Pool being a thousand feet” to set off?",
+    "options": [
+      { "text": "His own large alcohol capacity", "correct": false },
+      { "text": "The profound friendship with Wang Lun", "correct": true },
+      { "text": "The beautiful scenery of Peach Blossom Pool", "correct": false },
+      { "text": "The actual depth of the pool water", "correct": false }
+    ]
+  },
+  {
+    "question": "How many works are there in The Book of Songs?",
+    "options": [
+      { "text": "305", "correct": true },
+      { "text": "105", "correct": false },
+      { "text": "300", "correct": false },
+      { "text": "200", "correct": false }
+    ]
+  },
+  {
+    "question": "Whose story is told in The Peony Pavilion by Tang Xianzu?",
+    "options": [
+      { "text": "Du Liniang and Liu Mengmei", "correct": true },
+      { "text": "Song Jiang and Li Kui", "correct": false },
+      { "text": "Zhang Sheng and Cui Yingying", "correct": false },
+      { "text": "Guan Yu and Zhang Fei", "correct": false }
+    ]
+  },
+  {
+    "question": "Guan Ju is a poem about the topic of:",
+    "options": [
+      { "text": "Nature", "correct": false },
+      { "text": "Bird", "correct": false },
+      { "text": "Love", "correct": true },
+      { "text": "Music", "correct": false }
+    ]
+  },
+  {
+    "question": "What was the percentage of days with good air quality in Beijing in 2024?",
+    "options": [
+      { "text": "95%", "correct": false },
+      { "text": "79.5%", "correct": true },
+      { "text": "87%", "correct": false },
+      { "text": "65.5%", "correct": false }
+    ]
+  },
+{
+    "question": "Li Sao (Suffering Throes) is the representative work by:",
+    "options": [
+      { "text": "Confucius", "correct": false },
+      { "text": "Li Bai", "correct": false },
+      { "text": "Wang Wei", "correct": false },
+      { "text": "Qu Yuan", "correct": true }
+    ]
+  },
+  {
+    "question": "What material was used for the earliest movable type printing in China?",
+    "options": [
+      { "text": "Metal", "correct": false },
+      { "text": "Clay", "correct": true },
+      { "text": "Wood", "correct": false },
+      { "text": "Stone", "correct": false }
+    ]
+  },
+  {
+    "question": "Which dynasty's litterateur was Wu Chengen, the author of Journey to the West?",
+    "options": [
+      { "text": "Tang Dynasty", "correct": false },
+      { "text": "Song Dynasty", "correct": false },
+      { "text": "Ming Dynasty", "correct": true },
+      { "text": "Qing Dynasty", "correct": false }
+    ]
+  },
+  {
+    "question": "CRH (China Railway High-speed) trains are part of China’s:",
+    "options": [
+      { "text": "Belt and Road Initiative", "correct": false },
+      { "text": "“New Four Inventions”", "correct": true },
+      { "text": "“Four Great Inventions”", "correct": false },
+      { "text": "Both B and C", "correct": false }
+    ]
+  },
+  {
+    "question": "Who is the protagonist in Lu Xun’s Diary of a Madman?",
+    "options": [
+      { "text": "Xianglin’s Wife", "correct": false },
+      { "text": "The Madman", "correct": true },
+      { "text": "Ah Q", "correct": false },
+      { "text": "Kong Yiji", "correct": false }
+    ]
+  },
+  {
+    "question": "Which TCM therapy uses wormwood for warming meridians?",
+    "options": [
+      { "text": "Massage", "correct": false },
+      { "text": "Moxibustion", "correct": true },
+      { "text": "Acupuncture", "correct": false },
+      { "text": "Cupping", "correct": false }
+    ]
+  },
+  {
+    "question": "Which organ is most vulnerable to damage in autumn according to TCM?",
+    "options": [
+      { "text": "Heart", "correct": false },
+      { "text": "Kidneys", "correct": false },
+      { "text": "Lungs", "correct": true },
+      { "text": "Liver", "correct": false }
+    ]
+  },
+{
+    "question": "____ is the first collection of poems in China.",
+    "options": [
+      { "text": "Lisao", "correct": false },
+      { "text": "Shijing", "correct": true },
+      { "text": "Yijing", "correct": false },
+      { "text": "The Analects of Confucius", "correct": false }
+    ]
+  },
+  {
+    "question": "Which of these countries has NOT imported Chinese high-speed rail technology?",
+    "options": [
+      { "text": "Vietnam", "correct": true },
+      { "text": "Hungary", "correct": false },
+      { "text": "Thailand", "correct": false },
+      { "text": "Indonesia", "correct": false }
+    ]
+  },
+  {
+    "question": "The Inner Canon of the Yellow Emperor is foundational to which field?",
+    "options": [
+      { "text": "Western Pharmacology", "correct": false },
+      { "text": "Genetic Engineering", "correct": false },
+      { "text": "Modern Surgery", "correct": false },
+      { "text": "Traditional Chinese Medicine", "correct": true }
+    ]
+  },
+  {
+    "question": "Although Huangmei Opera originated in Huangmei, Hubei, in which province did it develop and become a local specialty?",
+    "options": [
+      { "text": "Zhejiang", "correct": false },
+      { "text": "Jiangxi", "correct": false },
+      { "text": "Anhui", "correct": true },
+      { "text": "Hunan", "correct": false }
+    ]
+  },
+  {
+    "question": "What is one manifestation of regional imbalance in China's economy?",
+    "options": [
+      { "text": "Equal development across all regions", "correct": false },
+      { "text": "Eastern coastal areas vs. central and western regions", "correct": true },
+      { "text": "No disparity between south and north", "correct": false },
+      { "text": "Uniform industrial growth nationwide", "correct": false }
+    ]
+  },
+  {
+    "question": "Which class of hospitals is considered the most advanced in China’s three-tier system?",
+    "options": [
+      { "text": "Class 3C", "correct": false },
+      { "text": "Class 1A", "correct": false },
+      { "text": "Class 2B", "correct": false },
+      { "text": "Class 3AA", "correct": true }
+    ]
+  },
+  {
+    "question": "Which of the following description best fits Qinghuaci porcelain in the Yuan dynasty?",
+    "options": [
+      { "text": "Heavy as metal and dark as night", "correct": false },
+      { "text": "Thin as paper and bright as mirror", "correct": true },
+      { "text": "Colorful as rainbow and light as feather", "correct": false },
+      { "text": "Rough as stone and earthy as soil", "correct": false }
+    ]
+  },
+  {
+    "question": "When did China’s reform and opening-up policy begin?",
+    "options": [
+      { "text": "1949", "correct": false },
+      { "text": "1992", "correct": false },
+      { "text": "1953", "correct": false },
+      { "text": "1978", "correct": true }
+    ]
+  },
+  {
+    "question": "Which calligrapher is credited as the founder of the Small Seal Script?",
+    "options": [
+      { "text": "Wang Xizhi", "correct": false },
+      { "text": "Ouyang Xun", "correct": false },
+      { "text": "Cai Yong", "correct": false },
+      { "text": "Li Si", "correct": true }
+    ]
+  },
+  {
+    "question": "Which character created by Lu Xun is a typical example of the “spiritual victory method”?",
+    "options": [
+      { "text": "Ah Q", "correct": true },
+      { "text": "Kong Yiji", "correct": false },
+      { "text": "Xianglinsao", "correct": false },
+      { "text": "Run Tu", "correct": false }
+    ]
+  },
+  {
+    "question": "The phrase “High Mountain and Flowing Streams” symbolizes:",
+    "options": [
+      { "text": "Seasonal changes", "correct": false },
+      { "text": "Religious devotion", "correct": false },
+      { "text": "Political power", "correct": false },
+      { "text": "Friendship and mutual understanding", "correct": true }
+    ]
+  },
+  {
+    "question": "In which region is Yue Opera (Shaoxing Opera) mainly popular?",
+    "options": [
+      { "text": "Guangdong and Guangxi", "correct": false },
+      { "text": "Zhejiang and Shanghai", "correct": true },
+      { "text": "Sichuan and Chongqing", "correct": false },
+      { "text": "Henan and Hebei", "correct": false }
+    ]
+  },
+  {
+    "question": "Which medicinal herb did Tu Youyou use to extract artemisinin?",
+    "options": [
+      { "text": "Artemisia annua", "correct": true },
+      { "text": "Cordyceps sinensis", "correct": false },
+      { "text": "Ginseng", "correct": false },
+      { "text": "Rhodiola", "correct": false }
+    ]
+  },
+  {
+    "question": "What does “Internet Plus” aim to achieve in China’s economy?",
+    "options": [
+      { "text": "Focus solely on traditional industries", "correct": false },
+      { "text": "Reduce internet usage in industries", "correct": false },
+      { "text": "Limit technological innovation", "correct": false },
+      { "text": "Integrate internet technology into economy and daily life", "correct": true }
+    ]
+  },
+  {
+    "question": "What technologies are associated with China’s Digital Economy 2.0?",
+    "options": [
+      { "text": "Coal mining and oil extraction", "correct": false },
+      { "text": "Cloud computing, big data, and blockchain", "correct": true },
+      { "text": "Manual labor and traditional farming", "correct": false },
+      { "text": "Mechanical engineering only", "correct": false }
+    ]
+  },
+  {
+    "question": "The “yin” and “yang” of brushwork are demonstrated through:",
+    "options": [
+      { "text": "“Cun” (~) texture strokes for mountain rocks", "correct": false },
+      { "text": "“Ti” (lifting) and “An” (pressing) movements", "correct": true },
+      { "text": "Horizontal vs. vertical character structures", "correct": false },
+      { "text": "Contrast of red and blue pigments", "correct": false }
+    ]
+  },
+  {
+    "question": "Which country was the world’s top rice producer in 2023?",
+    "options": [
+      { "text": "Vietnam", "correct": false },
+      { "text": "India", "correct": false },
+      { "text": "China", "correct": true },
+      { "text": "Thailand", "correct": false }
+    ]
+  },
+  {
+    "question": "Which of the following options saw the beginning of opera?",
+    "options": [
+      { "text": "Celebrating the new year", "correct": false },
+      { "text": "Praying for Rain", "correct": true },
+      { "text": "Wedding", "correct": false },
+      { "text": "Commemorating the deceased", "correct": false }
+    ]
+  },
+  {
+    "question": "Which of the following is a main feature of China’s socialist market economy?",
+    "options": [
+      { "text": "Complete privatization of all industries", "correct": false },
+      { "text": "No government regulation", "correct": false },
+      { "text": "Public ownership of key industries", "correct": true },
+      { "text": "Elimination of economic planning", "correct": false }
+    ]
+  },
+  {
+    "question": "Those “sacrificial songs” are usually accompanied by __ in the Book of Songs.",
+    "options": [
+      { "text": "Slow tempo dance music", "correct": true },
+      { "text": "Orthodox music", "correct": true },
+      { "text": "Local music", "correct": false },
+      { "text": "Traditional music", "correct": false }
+    ]
   }
 
 ]

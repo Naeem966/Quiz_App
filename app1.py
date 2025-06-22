@@ -2,14 +2,14 @@ import streamlit as st
 import json
 import random
 
-# Load all questions
+# Load questions
 with open("questions_full.json", "r", encoding="utf-8") as f:
     full_questions = json.load(f)
 
-# Page configuration
+# App config
 st.set_page_config(page_title="China Knowledge Quiz", page_icon="🧠", layout="centered")
 
-# Custom CSS for clean look
+# Custom CSS for styling
 st.markdown("""
     <style>
         .question-card {
@@ -38,7 +38,7 @@ if "index" not in st.session_state:
     st.session_state.answered = False
     st.session_state.selected_option = ""
     st.session_state.quiz_ended = False
-    st.session_state.shuffled_questions = random.sample(full_questions, len(full_questions))  # shuffle once
+    st.session_state.shuffled_questions = random.sample(full_questions, len(full_questions))
 
 questions = st.session_state.shuffled_questions
 q_index = st.session_state.index
@@ -55,35 +55,52 @@ if not st.session_state.quiz_ended and q_index < total_questions:
     st.subheader(f"Question {q_index + 1} of {total_questions}")
     st.write(f"**{current_question['question']}**")
     choice_list = [opt["text"] for opt in options]
-    selected = st.radio("Select your answer:", choice_list, key=f"radio_{q_index}")
+
+    # Determine if already answered
+    already_answered = q_index < len(st.session_state.answers)
+    previous_selection = st.session_state.answers[q_index]["selected"] if already_answered else None
+    selected = st.radio(
+        "Select your answer:",
+        choice_list,
+        index=choice_list.index(previous_selection) if previous_selection else 0,
+        key=f"radio_{q_index}"
+    )
     st.markdown('</div>', unsafe_allow_html=True)
 
-    col1, col2, col3 = st.columns(3)
+    col1, col2, col3, col4 = st.columns(4)
 
     with col1:
-        if st.button("✅ Check Answer") and not st.session_state.answered:
-            st.session_state.selected_option = selected
+        if st.button("✅ Check Answer") and not already_answered:
             is_correct = (selected == correct_answer)
             if is_correct:
                 st.success("🎉 Correct!")
             else:
                 st.error(f"❌ Incorrect! The correct answer is: **{correct_answer}**")
-            st.session_state.answered = True
             st.session_state.answers.append({
                 "question": current_question["question"],
                 "selected": selected,
                 "correct": correct_answer,
                 "is_correct": is_correct
             })
+            st.session_state.answered = True
 
     with col2:
         if st.button("➡️ Next"):
-            st.session_state.index += 1
-            st.session_state.answered = False
-            st.session_state.selected_option = ""
-            st.rerun()
+            if q_index < total_questions - 1:
+                st.session_state.index += 1
+                st.session_state.answered = False
+                st.session_state.selected_option = ""
+                st.rerun()
 
     with col3:
+        if st.button("⬅️ Previous"):
+            if q_index > 0:
+                st.session_state.index -= 1
+                st.session_state.answered = False
+                st.session_state.selected_option = ""
+                st.rerun()
+
+    with col4:
         if st.button("🛑 End Quiz"):
             st.session_state.quiz_ended = True
             st.rerun()
